@@ -1,0 +1,35 @@
+@media only screen and (max-width: 720px) {
+    body {
+      background-color: white;
+      font-family: Helvetica, Sans-Serif;
+      margin: 10% 10% 0 10%;
+    }
+  }
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+
+p{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.google--link{
+    text-align: center;
+    background-color: green;
+}
